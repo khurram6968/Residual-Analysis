@@ -1,4 +1,5 @@
 #Residula Analysis
+#Here i use cars data in R
 lm_model=lm(dist~speed,data=cars)
 lm_model
 #We can check heterosedasticity in the models there are two ways:
