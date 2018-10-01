@@ -40,3 +40,4 @@ new_bptest
 new_ncvtest=ncvTest(new_lm.model)
 new_ncvtest
 #So Null Hypothesis accepted.there is no heteroscedasicty.
+#Why remove heteroscedasticity in model because for better prediction.
